@@ -26,3 +26,6 @@ The full project report, including all analysis, insights, and recommendations, 
 - Data Visualization (Tables, Graphs, Charts)
 - Business Intelligence Tools (PowerBI, Excel)
 - Competitor and Market Reports (External Sources)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
